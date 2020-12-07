@@ -1,0 +1,12 @@
+{
+  "name": "ISfinal",
+  "displayName": "ISfinal",
+  "expo": {
+    "name": "ISfinal",
+    "slug": "ISfinal",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
